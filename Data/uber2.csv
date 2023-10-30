@@ -1,0 +1,785 @@
+from,to,type,price,Pickup-time,Drop-off-time
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 14:46:44.012718,15:50
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 14:46:44.013713,15:48
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 14:46:44.013713,15:52
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 14:46:44.014704,15:49
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 14:47:04.416531,15:55
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 14:47:04.417535,15:53
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 14:47:04.417535,15:57
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 14:47:04.418537,15:53
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 14:47:24.617108,15:47
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 14:47:24.617108,15:45
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 14:47:24.617108,15:49
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 14:47:24.617108,15:45
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 14:47:44.646009,15:34
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 14:47:44.646009,15:33
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 14:47:44.646009,15:36
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 14:47:44.647014,15:34
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 14:48:05.171692,15:13
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 14:48:05.171692,15:12
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 14:48:05.171692,15:15
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 14:48:05.172729,15:12
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹952.69,2023-10-22 14:48:25.264469,15:59
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,"₹1,059.83",2023-10-22 14:48:25.264469,15:58
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹2,188.96",2023-10-22 14:48:25.264469,16:01
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,"₹1,007.63",2023-10-22 14:48:25.265468,15:58
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 14:48:45.168092,16:23
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 14:48:45.168092,16:22
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 14:48:45.168092,16:25
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 14:48:45.169096,16:22
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 14:49:05.421021,16:22
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 14:49:05.421021,16:20
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 14:49:05.422021,16:24
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 14:49:05.422021,16:21
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 14:49:24.816995,15:52
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 14:49:24.817999,15:51
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 14:49:24.817999,15:54
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 14:49:24.818997,15:52
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 14:49:44.835314,15:32
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 14:49:44.836317,15:31
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 14:49:44.836317,15:34
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 14:49:44.836317,15:33
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 14:50:12.396403,15:50
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 14:50:12.397424,15:54
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 14:50:12.397424,15:55
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 14:50:12.398403,15:52
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 14:50:34.688024,15:55
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 14:50:34.689023,15:56
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,729.89",2023-10-22 14:50:34.689023,15:59
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 14:50:34.690023,15:55
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 14:50:57.153741,15:46
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 14:50:57.153741,15:47
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,707.66",2023-10-22 14:50:57.154742,15:47
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 14:50:57.154742,15:47
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 14:51:19.691761,15:28
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 14:51:19.692760,15:29
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 14:51:19.692760,15:30
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 14:51:19.693759,15:29
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 14:51:41.989546,15:10
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 14:51:41.989546,15:11
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 14:51:41.990545,15:11
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 14:51:41.990545,15:11
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 14:52:05.608852,15:59
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 14:52:05.608852,16:00
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,477.50",2023-10-22 14:52:05.609852,16:03
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 14:52:05.609852,16:00
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,289.97",2023-10-22 14:52:28.147230,16:25
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,559.61",2023-10-22 14:52:28.148197,16:25
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,602.15",2023-10-22 14:52:28.148197,16:25
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,379.85",2023-10-22 14:52:28.149202,16:26
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,229.54",2023-10-22 14:52:49.773525,16:19
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,484.30",2023-10-22 14:52:49.773525,16:19
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,469.16",2023-10-22 14:52:49.774524,16:18
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,314.45",2023-10-22 14:52:49.774524,16:18
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 14:53:12.593423,15:48
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 14:53:12.593423,15:48
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 14:53:12.594417,15:52
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 14:53:12.594417,15:48
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 14:53:35.482478,15:32
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 14:53:35.482478,15:32
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 14:53:35.483476,15:34
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 14:53:35.483476,15:32
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 15:08:57.838627,16:14
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 15:08:57.838627,16:13
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 15:08:57.839626,16:16
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 15:08:57.839626,16:13
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 15:09:17.893926,16:18
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 15:09:17.894923,16:17
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 15:09:17.894923,16:20
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 15:09:17.895967,16:17
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 15:09:37.368732,16:10
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 15:09:37.368732,16:08
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 15:09:37.368732,16:11
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 15:09:37.369734,16:09
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 15:09:56.462611,15:56
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 15:09:56.462611,15:56
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 15:09:56.462611,15:58
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 15:09:56.463609,15:56
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 15:10:15.597651,15:35
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 15:10:15.597651,15:35
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 15:10:15.597651,15:37
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 15:10:15.598736,15:34
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹678.66,2023-10-22 15:10:35.197517,16:23
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,₹759.03,2023-10-22 15:10:35.197517,16:22
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹1,606.05",2023-10-22 15:10:35.198516,16:25
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,₹719.87,2023-10-22 15:10:35.198516,16:21
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 15:10:54.346686,16:46
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 15:10:54.348190,16:45
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 15:10:54.348190,16:48
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 15:10:54.349198,16:45
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 15:11:14.051855,16:40
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 15:11:14.051855,16:40
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 15:11:14.052894,16:43
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 15:11:14.052894,16:39
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 15:11:33.829416,16:13
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 15:11:33.830383,16:12
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 15:11:33.830383,16:14
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 15:11:33.831416,16:11
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 15:11:52.799045,15:56
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 15:11:52.799045,15:56
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 15:11:52.799045,15:58
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 15:11:52.800045,15:55
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 15:12:19.377418,16:12
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 15:12:19.378454,16:13
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 15:12:19.378454,16:18
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 15:12:19.378454,16:12
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 15:12:42.217092,16:17
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 15:12:42.217092,16:18
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,729.89",2023-10-22 15:12:42.217092,16:22
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 15:12:42.218125,16:17
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹796.69,2023-10-22 15:13:04.392168,16:08
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹960.50,2023-10-22 15:13:04.392168,16:10
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,593.00",2023-10-22 15:13:04.393166,16:11
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹851.29,2023-10-22 15:13:04.393166,16:08
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 15:13:26.502803,15:49
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 15:13:26.502803,15:49
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 15:13:26.503800,15:50
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 15:13:26.503800,15:49
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 15:13:48.410628,15:33
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 15:13:48.410628,15:33
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 15:13:48.410628,15:34
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 15:13:48.411619,15:33
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹682.97,2023-10-22 15:14:10.758507,16:22
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹847.21,2023-10-22 15:14:10.759506,16:22
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,481.40",2023-10-22 15:14:10.759506,16:25
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹737.71,2023-10-22 15:14:10.760509,16:22
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,627.03",2023-10-22 15:14:32.879852,16:48
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,947.27",2023-10-22 15:14:32.880852,16:48
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹3,184.33",2023-10-22 15:14:32.881367,16:47
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,733.77",2023-10-22 15:14:32.881367,16:49
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,264.09",2023-10-22 15:14:54.791855,16:43
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,527.35",2023-10-22 15:14:54.791855,16:43
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,545.08",2023-10-22 15:14:54.791855,16:43
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,351.85",2023-10-22 15:14:54.792854,16:42
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 15:15:16.710230,16:09
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 15:15:16.711229,16:09
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 15:15:16.711229,16:15
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 15:15:16.712229,16:09
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 15:15:38.661504,15:52
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 15:15:38.661504,15:54
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 15:15:38.662506,15:54
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 15:15:38.662506,15:52
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 15:31:00.774433,16:37
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 15:31:00.774433,16:35
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 15:31:00.774433,16:39
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 15:31:00.775433,16:35
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 15:31:19.009538,16:42
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 15:31:19.009538,16:40
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 15:31:19.010538,16:44
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 15:31:19.010538,16:40
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 15:31:38.613869,16:32
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 15:31:38.613869,16:30
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 15:31:38.613869,16:34
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 15:31:38.614864,16:30
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 15:31:58.625895,16:18
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 15:31:58.626897,16:17
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 15:31:58.626897,16:20
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 15:31:58.627895,16:17
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 15:32:18.479848,15:57
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 15:32:18.479848,15:55
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 15:32:18.480849,16:00
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 15:32:18.480849,15:55
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹678.66,2023-10-22 15:32:38.456058,16:47
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,₹759.03,2023-10-22 15:32:38.456058,16:46
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹1,606.05",2023-10-22 15:32:38.457026,16:49
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,₹719.87,2023-10-22 15:32:38.457026,16:44
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 15:32:58.736911,17:07
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 15:32:58.736911,17:07
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 15:32:58.737941,17:10
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 15:32:58.737941,17:06
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 15:33:18.349304,17:10
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 15:33:18.349304,17:09
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 15:33:18.350304,17:12
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 15:33:18.350304,17:08
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 15:33:37.799902,16:36
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 15:33:37.800941,16:35
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 15:33:37.801935,16:38
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 15:33:37.801935,16:35
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 15:33:57.764945,16:19
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 15:33:57.765951,16:18
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 15:33:57.765951,16:21
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 15:33:57.766987,16:18
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 15:34:24.818822,16:34
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 15:34:24.819831,16:36
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 15:34:24.819831,16:41
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 15:34:24.820821,16:34
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹878.13,2023-10-22 15:34:46.905487,16:39
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,061.98",2023-10-22 15:34:46.906487,16:41
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,772.54",2023-10-22 15:34:46.906487,16:42
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹939.40,2023-10-22 15:34:46.907497,16:40
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 15:35:09.177419,16:32
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 15:35:09.178419,16:32
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,707.66",2023-10-22 15:35:09.178419,16:32
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 15:35:09.179419,16:32
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 15:35:32.536023,16:12
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 15:35:32.536023,16:12
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 15:35:32.537023,16:13
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 15:35:32.537023,16:12
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 15:35:55.381271,15:54
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 15:35:55.381271,15:55
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 15:35:55.381271,15:58
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 15:35:55.382269,15:55
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 15:36:18.435606,16:45
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 15:36:18.436609,16:46
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,477.50",2023-10-22 15:36:18.436609,16:49
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 15:36:18.436609,16:46
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,672.76",2023-10-22 15:36:40.971137,17:11
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹2,004.25",2023-10-22 15:36:40.972135,17:11
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹3,284.76",2023-10-22 15:36:40.972135,17:12
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,783.26",2023-10-22 15:36:40.973145,17:11
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,259.16",2023-10-22 15:37:03.311692,17:09
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,521.20",2023-10-22 15:37:03.312726,17:08
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,534.24",2023-10-22 15:37:03.312726,17:08
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,346.51",2023-10-22 15:37:03.313718,17:08
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 15:37:25.014104,16:35
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 15:37:25.015105,16:35
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 15:37:25.015105,16:39
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 15:37:25.015105,16:35
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 15:37:47.386208,16:17
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 15:37:47.387209,16:19
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 15:37:47.387209,16:18
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 15:37:47.388241,16:18
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 15:53:09.487845,17:00
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 15:53:09.487845,16:58
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 15:53:09.487845,17:01
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 15:53:09.488848,16:57
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 15:53:31.820691,17:05
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 15:53:31.820691,17:02
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 15:53:31.821728,17:06
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 15:53:31.821728,17:02
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 15:53:52.803843,16:56
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 15:53:52.803843,16:53
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 15:53:52.805351,16:57
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 15:53:52.805351,16:53
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 15:54:13.256915,16:41
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 15:54:13.256915,16:40
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 15:54:13.256915,16:43
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 15:54:13.257915,16:40
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 15:54:34.080995,16:20
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 15:54:34.080995,16:19
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 15:54:34.081995,16:22
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 15:54:34.081995,16:19
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹678.66,2023-10-22 15:54:54.946796,17:10
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,₹759.03,2023-10-22 15:54:54.946796,17:09
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹1,606.05",2023-10-22 15:54:54.946796,17:12
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,₹719.87,2023-10-22 15:54:54.947837,17:09
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 15:55:14.950477,17:31
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 15:55:14.950477,17:29
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 15:55:14.951479,17:32
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 15:55:14.951479,17:29
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 15:55:35.906003,17:29
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 15:55:35.907006,17:28
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 15:55:35.907006,17:31
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 15:55:35.908004,17:28
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 15:55:57.642939,16:59
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 15:55:57.643940,16:58
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 15:55:57.643940,17:01
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 15:55:57.643940,16:58
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 15:56:18.689946,16:41
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 15:56:18.689946,16:40
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 15:56:18.689946,16:41
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 15:56:18.690947,16:40
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 15:56:44.986052,16:57
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 15:56:44.987051,16:58
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 15:56:44.987051,16:59
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 15:56:44.987051,17:00
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹874.24,2023-10-22 15:57:07.577328,17:06
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,057.13",2023-10-22 15:57:07.577328,17:08
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,764.02",2023-10-22 15:57:07.577328,17:06
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹935.20,2023-10-22 15:57:07.578322,17:07
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹813.86,2023-10-22 15:57:30.272742,16:55
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹981.90,2023-10-22 15:57:30.272742,16:55
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,630.70",2023-10-22 15:57:30.273744,16:55
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹869.88,2023-10-22 15:57:30.273744,16:55
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 15:57:53.058534,16:35
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 15:57:53.058534,16:35
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 15:57:53.059538,16:36
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 15:57:53.059538,16:35
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 15:58:15.693073,16:16
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 15:58:15.694106,16:17
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 15:58:15.695071,16:20
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 15:58:15.695071,16:17
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 15:58:38.547917,17:09
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 15:58:38.548915,17:09
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,477.50",2023-10-22 15:58:38.548915,17:13
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 15:58:38.549919,17:09
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,239.92",2023-10-22 15:59:01.053525,17:32
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,497.24",2023-10-22 15:59:01.054540,17:31
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,492.21",2023-10-22 15:59:01.054540,17:32
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,325.71",2023-10-22 15:59:01.054540,17:32
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,260.80",2023-10-22 15:59:24.590851,17:30
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,523.26",2023-10-22 15:59:24.591885,17:29
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,537.86",2023-10-22 15:59:24.591885,17:31
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,348.29",2023-10-22 15:59:24.591885,17:29
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 15:59:47.242269,16:56
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 15:59:47.243268,16:57
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 15:59:47.243268,17:02
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 15:59:47.244266,16:56
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 16:00:10.099237,16:39
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 16:00:10.099237,16:41
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 16:00:10.099237,16:40
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 16:00:10.100236,16:39
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 16:15:32.665578,17:21
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 16:15:32.665578,17:18
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 16:15:32.666578,17:23
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 16:15:32.666578,17:19
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 16:15:52.403506,17:27
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 16:15:52.403506,17:25
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 16:15:52.404505,17:29
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 16:15:52.404505,17:25
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 16:16:11.490602,17:17
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 16:16:11.490602,17:16
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 16:16:11.490602,17:20
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 16:16:11.491602,17:17
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 16:16:30.486820,17:04
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 16:16:30.487818,17:03
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 16:16:30.487818,17:06
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 16:16:30.488858,17:03
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 16:16:49.427451,16:42
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 16:16:49.428458,16:42
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 16:16:49.429451,16:45
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 16:16:49.429451,16:42
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹678.66,2023-10-22 16:17:08.510458,17:33
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,₹759.03,2023-10-22 16:17:08.511458,17:32
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹1,606.05",2023-10-22 16:17:08.511458,17:35
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,₹719.87,2023-10-22 16:17:08.512493,17:32
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 16:17:27.415844,17:49
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 16:17:27.416876,17:48
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 16:17:27.416876,17:51
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 16:17:27.416876,17:48
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 16:17:46.545866,17:52
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 16:17:46.545866,17:52
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 16:17:46.546867,17:54
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 16:17:46.546867,17:50
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 16:18:05.598105,17:22
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 16:18:05.598105,17:21
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 16:18:05.599128,17:24
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 16:18:05.599128,17:20
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 16:18:24.864205,17:02
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 16:18:24.864205,17:01
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 16:18:24.865205,17:04
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 16:18:24.865205,17:01
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 16:18:50.349969,17:20
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 16:18:50.350967,17:20
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 16:18:50.350967,17:25
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 16:18:50.351966,17:20
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹861.95,2023-10-22 16:19:12.223592,17:26
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,041.81",2023-10-22 16:19:12.224603,17:27
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,737.00",2023-10-22 16:19:12.224603,17:27
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹921.89,2023-10-22 16:19:12.225606,17:26
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 16:19:34.116248,17:16
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 16:19:34.117235,17:16
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,707.66",2023-10-22 16:19:34.117235,17:17
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 16:19:34.118239,17:16
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 16:19:56.553040,16:57
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 16:19:56.554032,16:57
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 16:19:56.554032,16:57
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 16:19:56.555035,16:57
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 16:20:18.469848,16:39
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 16:20:18.470848,16:39
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 16:20:18.470848,16:42
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 16:20:18.471847,16:39
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 16:20:40.308098,17:29
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 16:20:40.309097,17:30
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,477.50",2023-10-22 16:20:40.309097,17:32
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 16:20:40.310098,17:30
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,288.15",2023-10-22 16:21:02.253508,17:56
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,557.33",2023-10-22 16:21:02.253508,17:56
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,598.15",2023-10-22 16:21:02.253508,17:59
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,377.89",2023-10-22 16:21:02.255046,17:56
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,224.60",2023-10-22 16:21:24.159604,17:53
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,478.15",2023-10-22 16:21:24.160603,17:54
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,458.32",2023-10-22 16:21:24.160603,17:53
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,309.11",2023-10-22 16:21:24.161604,17:52
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 16:21:45.971292,17:20
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 16:21:45.971292,17:20
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 16:21:45.971292,17:26
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 16:21:45.972293,17:20
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 16:22:08.443681,17:00
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 16:22:08.444701,17:01
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 16:22:08.444701,17:01
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 16:22:08.445719,17:00
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 16:37:30.845271,17:44
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 16:37:30.845271,17:44
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 16:37:30.845271,17:47
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 16:37:30.846271,17:43
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 16:37:50.297246,17:51
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 16:37:50.297246,17:50
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 16:37:50.298274,17:53
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 16:37:50.298274,17:50
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 16:38:10.282131,17:40
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 16:38:10.283137,17:39
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 16:38:10.283137,17:42
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 16:38:10.283137,17:38
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 16:38:29.900018,17:27
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 16:38:29.900018,17:27
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 16:38:29.901020,17:30
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 16:38:29.901020,17:26
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 16:38:49.417928,17:05
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 16:38:49.417928,17:04
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 16:38:49.417928,17:07
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 16:38:49.419464,17:04
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹678.66,2023-10-22 16:39:09.083241,17:53
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,₹759.03,2023-10-22 16:39:09.083241,17:52
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹1,606.05",2023-10-22 16:39:09.084241,17:55
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,₹719.87,2023-10-22 16:39:09.084241,17:52
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 16:39:28.849069,18:17
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 16:39:28.849069,18:16
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 16:39:28.850064,18:19
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 16:39:28.850064,18:16
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 16:39:48.244512,18:13
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 16:39:48.245515,18:12
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 16:39:48.245515,18:15
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 16:39:48.246511,18:14
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 16:40:18.130801,17:42
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 16:40:18.130801,17:40
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 16:40:18.131801,17:44
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 16:40:18.131801,17:40
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 16:40:37.762498,17:25
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 16:40:37.764034,17:23
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 16:40:37.764034,17:27
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 16:40:37.765070,17:23
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 16:41:04.611646,17:41
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 16:41:04.611646,17:43
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,853.91",2023-10-22 16:41:04.612620,17:46
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 16:41:04.612620,17:41
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 16:41:26.847704,17:48
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 16:41:26.848703,17:48
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,729.89",2023-10-22 16:41:26.848703,17:50
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 16:41:26.849703,17:48
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 16:41:49.360080,17:37
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 16:41:49.361078,17:37
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,707.66",2023-10-22 16:41:49.361078,17:37
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 16:41:49.361078,17:37
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 16:42:11.966210,17:20
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 16:42:11.967210,17:20
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,383.57",2023-10-22 16:42:11.967210,17:21
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 16:42:11.968222,17:20
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 16:42:35.503782,17:01
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 16:42:35.503782,17:02
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹792.72,2023-10-22 16:42:35.503782,17:02
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 16:42:35.504794,17:02
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹684.73,2023-10-22 16:42:58.441454,17:53
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹849.43,2023-10-22 16:42:58.441454,17:53
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,485.30",2023-10-22 16:42:58.442454,17:56
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹739.63,2023-10-22 16:42:58.442454,17:53
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,330.92",2023-10-22 16:43:21.134834,18:18
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,610.62",2023-10-22 16:43:21.134834,18:20
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,692.10",2023-10-22 16:43:21.135824,18:22
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,424.16",2023-10-22 16:43:21.135824,18:19
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,248.46",2023-10-22 16:43:43.564219,18:11
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,507.88",2023-10-22 16:43:43.565219,18:12
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,510.74",2023-10-22 16:43:43.565219,18:12
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,334.94",2023-10-22 16:43:43.565219,18:11
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 16:44:06.159418,17:40
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 16:44:06.160384,17:42
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,679.58",2023-10-22 16:44:06.160384,17:47
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 16:44:06.160384,17:40
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 16:44:28.811689,17:23
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 16:44:28.812687,17:23
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,390.59",2023-10-22 16:44:28.812687,17:26
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 16:44:28.813656,17:23
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 16:59:52.597077,18:06
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 16:59:52.597077,18:04
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 16:59:52.598047,18:09
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 16:59:52.598047,18:04
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 17:00:13.100565,18:13
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 17:00:13.101556,18:12
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 17:00:13.101556,18:15
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 17:00:13.101556,18:12
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 17:00:32.703903,18:02
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 17:00:32.703903,18:01
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 17:00:32.704903,18:05
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 17:00:32.704903,18:01
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 17:00:52.549343,17:48
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 17:00:52.550341,17:47
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 17:00:52.550341,17:51
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 17:00:52.551344,17:47
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 17:01:11.634342,17:27
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 17:01:11.634342,17:25
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 17:01:11.634342,17:29
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 17:01:11.635343,17:24
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹952.69,2023-10-22 17:01:31.438696,18:16
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,"₹1,059.83",2023-10-22 17:01:31.439697,18:15
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹2,188.96",2023-10-22 17:01:31.439697,18:18
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,"₹1,007.63",2023-10-22 17:01:31.440696,18:13
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 17:01:50.347655,18:35
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 17:01:50.348671,18:34
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 17:01:50.348671,18:37
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 17:01:50.348671,18:33
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 17:02:09.561399,18:41
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 17:02:09.562406,18:39
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 17:02:09.562406,18:43
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 17:02:09.563408,18:38
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 17:02:28.505138,18:06
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 17:02:28.505138,18:04
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 17:02:28.506137,18:08
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 17:02:28.506137,18:04
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 17:02:47.549580,17:47
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 17:02:47.549580,17:46
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 17:02:47.550580,17:47
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 17:02:47.550580,17:46
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 17:03:13.492892,18:01
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 17:03:13.493960,18:02
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,935.81",2023-10-22 17:03:13.494934,18:09
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 17:03:13.494934,18:01
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 17:03:35.052840,18:08
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 17:03:35.052840,18:09
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,811.79",2023-10-22 17:03:35.053842,18:10
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 17:03:35.053842,18:08
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 17:03:56.896834,17:58
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 17:03:56.897835,17:58
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,789.56",2023-10-22 17:03:56.897835,17:59
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 17:03:56.898834,17:58
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 17:04:19.212440,17:42
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 17:04:19.213550,17:42
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,465.47",2023-10-22 17:04:19.213550,17:43
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 17:04:19.214567,17:42
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 17:04:41.702101,17:23
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 17:04:41.702101,17:24
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹874.62,2023-10-22 17:04:41.703100,17:25
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 17:04:41.703100,17:23
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 17:05:03.533596,18:15
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 17:05:03.534597,18:16
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,559.40",2023-10-22 17:05:03.534597,18:18
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 17:05:03.535601,18:16
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,330.92",2023-10-22 17:05:25.716231,18:38
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,610.62",2023-10-22 17:05:25.717258,18:40
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,783.10",2023-10-22 17:05:25.717258,18:42
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,424.16",2023-10-22 17:05:25.718227,18:40
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,235.29",2023-10-22 17:05:47.724871,18:31
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,491.47",2023-10-22 17:05:47.725869,18:33
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,573.98",2023-10-22 17:05:47.725869,18:34
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,320.69",2023-10-22 17:05:47.726870,18:31
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 17:06:10.231645,18:04
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 17:06:10.232613,18:04
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,761.48",2023-10-22 17:06:10.232613,18:10
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 17:06:10.232613,18:04
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 17:06:32.443674,17:44
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 17:06:32.444674,17:44
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,472.49",2023-10-22 17:06:32.444674,17:48
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 17:06:32.444674,17:44
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 17:21:56.575085,18:29
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 17:21:56.575085,18:29
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 17:21:56.575085,18:31
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 17:21:56.576116,18:29
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 17:22:16.533142,18:36
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 17:22:16.533142,18:37
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 17:22:16.533142,18:38
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 17:22:16.533142,18:36
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 17:22:35.606732,18:26
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 17:22:35.606732,18:26
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 17:22:35.606732,18:28
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 17:22:35.607731,18:25
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 17:22:55.268300,18:13
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 17:22:55.268300,18:12
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 17:22:55.269340,18:15
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 17:22:55.269340,18:10
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 17:23:14.246960,17:50
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 17:23:14.246960,17:49
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 17:23:14.247960,17:52
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 17:23:14.247960,17:48
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹952.69,2023-10-22 17:23:33.268259,18:40
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,"₹1,059.83",2023-10-22 17:23:33.268259,18:38
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹2,188.96",2023-10-22 17:23:33.269259,18:42
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,"₹1,007.63",2023-10-22 17:23:33.269259,18:38
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 17:23:52.603116,19:05
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 17:23:52.604116,19:03
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 17:23:52.604116,19:07
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 17:23:52.604116,19:03
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 17:24:11.542205,18:58
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 17:24:11.542205,18:57
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 17:24:11.542205,19:01
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 17:24:11.543203,18:57
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 17:24:30.460856,18:28
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 17:24:30.461856,18:27
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 17:24:30.461856,18:31
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 17:24:30.461856,18:27
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹723.82,2023-10-22 17:24:49.949250,18:10
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹792.31,2023-10-22 17:24:49.949250,18:07
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,514.21",2023-10-22 17:24:49.949250,18:12
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹758.96,2023-10-22 17:24:49.950250,18:08
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 17:25:14.866400,18:24
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 17:25:14.867399,18:25
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,935.81",2023-10-22 17:25:14.867399,18:32
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 17:25:14.867399,18:24
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 17:25:37.333304,18:32
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 17:25:37.333304,18:33
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,811.79",2023-10-22 17:25:37.334310,18:34
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 17:25:37.334310,18:32
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 17:25:59.218633,18:20
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 17:25:59.219632,18:21
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,789.56",2023-10-22 17:25:59.219632,18:22
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 17:25:59.220632,18:20
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 17:26:21.176486,18:05
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 17:26:21.176486,18:05
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,465.47",2023-10-22 17:26:21.177485,18:06
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 17:26:21.177485,18:05
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 17:26:43.068530,17:46
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 17:26:43.068530,17:46
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹874.62,2023-10-22 17:26:43.069552,17:49
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 17:26:43.069552,17:46
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 17:27:05.104325,18:36
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 17:27:05.105288,18:37
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,559.40",2023-10-22 17:27:05.105288,18:39
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 17:27:05.105288,18:36
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,330.92",2023-10-22 17:27:26.998154,18:59
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,610.62",2023-10-22 17:27:26.998154,19:03
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,783.10",2023-10-22 17:27:26.999154,19:01
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,424.16",2023-10-22 17:27:26.999154,19:01
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,200.73",2023-10-22 17:27:49.155496,18:54
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,448.40",2023-10-22 17:27:49.155496,18:55
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,495.01",2023-10-22 17:27:49.155496,18:58
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,283.29",2023-10-22 17:27:49.156496,18:54
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 17:28:10.971755,18:24
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 17:28:10.971755,18:24
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,761.48",2023-10-22 17:28:10.973263,18:29
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 17:28:10.974274,18:24
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 17:28:32.721853,18:05
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 17:28:32.721853,18:06
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,472.49",2023-10-22 17:28:32.723362,18:11
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 17:28:32.724373,18:05
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 17:43:54.276386,18:54
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 17:43:54.277420,18:53
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 17:43:54.277420,18:57
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 17:43:54.278419,18:53
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 17:44:14.531948,19:00
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 17:44:14.531948,18:59
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 17:44:14.532948,19:02
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 17:44:14.532948,18:58
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 17:44:34.656919,18:49
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 17:44:34.656919,18:47
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 17:44:34.657912,18:51
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 17:44:34.657912,18:47
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 17:44:54.529378,18:34
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 17:44:54.529378,18:34
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 17:44:54.529378,18:36
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 17:44:54.530381,18:33
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 17:45:14.248374,18:12
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 17:45:14.248374,18:11
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 17:45:14.249372,18:14
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 17:45:14.249372,18:11
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹952.69,2023-10-22 17:45:34.367270,19:03
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,"₹1,059.83",2023-10-22 17:45:34.367270,19:03
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹2,188.96",2023-10-22 17:45:34.368266,19:05
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,"₹1,007.63",2023-10-22 17:45:34.368266,19:02
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,114.28",2023-10-22 17:45:53.687976,19:21
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,238.05",2023-10-22 17:45:53.687976,19:20
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,542.59",2023-10-22 17:45:53.688976,19:23
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,177.76",2023-10-22 17:45:53.688976,19:19
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 17:46:12.645421,19:28
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 17:46:12.645421,19:27
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 17:46:12.645421,19:31
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 17:46:12.646421,19:27
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 17:46:31.867682,18:52
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 17:46:31.868684,18:51
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 17:46:31.868684,18:53
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 17:46:31.868684,18:51
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹768.90,2023-10-22 17:46:50.884513,18:33
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹845.00,2023-10-22 17:46:50.885512,18:32
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,647.11",2023-10-22 17:46:50.885512,18:35
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹807.94,2023-10-22 17:46:50.886511,18:32
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 17:47:16.428835,18:46
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 17:47:16.428835,18:48
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,935.81",2023-10-22 17:47:16.429836,18:49
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 17:47:16.429836,18:47
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹858.71,2023-10-22 17:47:37.759816,18:52
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,037.77",2023-10-22 17:47:37.760813,18:53
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,811.79",2023-10-22 17:47:37.760813,18:55
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹918.39,2023-10-22 17:47:37.761784,18:53
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 17:47:59.022949,18:42
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 17:47:59.022949,18:43
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,789.56",2023-10-22 17:47:59.022949,18:50
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 17:47:59.023948,18:43
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹701.34,2023-10-22 17:48:21.043435,18:26
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹841.72,2023-10-22 17:48:21.043435,18:27
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,465.47",2023-10-22 17:48:21.044436,18:28
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹748.14,2023-10-22 17:48:21.045436,18:26
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 17:48:42.976931,18:07
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 17:48:42.976931,18:07
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹874.62,2023-10-22 17:48:42.976931,18:12
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 17:48:42.977898,18:07
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 17:49:04.798920,19:00
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 17:49:04.798920,19:01
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,559.40",2023-10-22 17:49:04.798920,19:05
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 17:49:04.799909,19:00
+Vajarahalli,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,278.14",2023-10-22 17:49:26.736427,19:26
+Vajarahalli,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,544.86",2023-10-22 17:49:26.736427,19:28
+Vajarahalli,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,662.94",2023-10-22 17:49:26.737427,19:33
+Vajarahalli,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,367.05",2023-10-22 17:49:26.737427,19:26
+Electronic City,Kempegowda International Airport Bengaluru,Uber GoPerson4,"₹1,237.76",2023-10-22 17:49:48.599970,19:16
+Electronic City,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,494.54",2023-10-22 17:49:48.600970,19:18
+Electronic City,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹2,579.62",2023-10-22 17:49:48.601936,19:19
+Electronic City,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,"₹1,323.36",2023-10-22 17:49:48.601936,19:17
+Nagarabhavi,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹835.72,2023-10-22 17:50:10.915594,18:44
+Nagarabhavi,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,009.14",2023-10-22 17:50:10.915594,18:44
+Nagarabhavi,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,761.48",2023-10-22 17:50:10.915594,18:49
+Nagarabhavi,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹893.54,2023-10-22 17:50:10.916595,18:44
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹704.22,2023-10-22 17:50:32.756726,18:27
+Kalyan Nagar,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.31,2023-10-22 17:50:32.757726,18:27
+Kalyan Nagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,472.49",2023-10-22 17:50:32.757726,18:30
+Kalyan Nagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹751.24,2023-10-22 17:50:32.758727,18:27
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberGoPerson4,₹881.76,2023-10-22 18:05:54.297335,19:18
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",PremierPerson4,₹976.92,2023-10-22 18:05:54.297335,19:16
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",UberXLPerson6,"₹1,979.82",2023-10-22 18:05:54.297335,19:19
+Kempegowda International Airport Bengaluru,"Marathahalli, Bengaluru, Karnataka",Go SedanPerson4,₹930.55,2023-10-22 18:05:54.298336,19:17
+Kempegowda International Airport Bengaluru,Koramangala,UberGoPerson4,₹835.01,2023-10-22 18:06:14.403108,19:25
+Kempegowda International Airport Bengaluru,Koramangala,PremierPerson4,₹922.28,2023-10-22 18:06:14.404106,19:24
+Kempegowda International Airport Bengaluru,Koramangala,UberXLPerson6,"₹1,841.99",2023-10-22 18:06:14.404106,19:28
+Kempegowda International Airport Bengaluru,Koramangala,Go SedanPerson4,₹879.77,2023-10-22 18:06:14.404106,19:24
+Kempegowda International Airport Bengaluru,Indiranagar,UberGoPerson4,₹790.90,2023-10-22 18:06:33.671114,19:14
+Kempegowda International Airport Bengaluru,Indiranagar,PremierPerson4,₹870.71,2023-10-22 18:06:33.671114,19:12
+Kempegowda International Airport Bengaluru,Indiranagar,UberXLPerson6,"₹1,711.97",2023-10-22 18:06:33.672113,19:16
+Kempegowda International Airport Bengaluru,Indiranagar,Go SedanPerson4,₹831.83,2023-10-22 18:06:33.673114,19:13
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberGoPerson4,₹745.17,2023-10-22 18:06:53.251328,18:58
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,PremierPerson4,₹817.27,2023-10-22 18:06:53.251328,18:56
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,UberXLPerson6,"₹1,577.13",2023-10-22 18:06:53.252327,19:00
+Kempegowda International Airport Bengaluru,Yeshwantpur Bus Stand,Go SedanPerson4,₹782.14,2023-10-22 18:06:53.252327,18:57
+Kempegowda International Airport Bengaluru,Yelahanka,UberGoPerson4,₹548.41,2023-10-22 18:07:12.405717,18:37
+Kempegowda International Airport Bengaluru,Yelahanka,PremierPerson4,₹587.29,2023-10-22 18:07:12.405717,18:35
+Kempegowda International Airport Bengaluru,Yelahanka,UberXLPerson6,₹997.06,2023-10-22 18:07:12.406717,18:39
+Kempegowda International Airport Bengaluru,Yelahanka,Go SedanPerson4,₹568.36,2023-10-22 18:07:12.406717,18:35
+Kempegowda International Airport Bengaluru,Whitefield,UberGoPerson4,₹952.69,2023-10-22 18:07:31.504430,19:29
+Kempegowda International Airport Bengaluru,Whitefield,PremierPerson4,"₹1,059.83",2023-10-22 18:07:31.504430,19:27
+Kempegowda International Airport Bengaluru,Whitefield,UberXLPerson6,"₹2,188.96",2023-10-22 18:07:31.505430,19:31
+Kempegowda International Airport Bengaluru,Whitefield,Go SedanPerson4,"₹1,007.63",2023-10-22 18:07:31.505430,19:27
+Kempegowda International Airport Bengaluru,Vajarahalli,UberGoPerson4,"₹1,118.84",2023-10-22 18:07:50.338412,19:40
+Kempegowda International Airport Bengaluru,Vajarahalli,PremierPerson4,"₹1,243.38",2023-10-22 18:07:50.339413,19:39
+Kempegowda International Airport Bengaluru,Vajarahalli,UberXLPerson6,"₹2,556.03",2023-10-22 18:07:50.339413,19:43
+Kempegowda International Airport Bengaluru,Vajarahalli,Go SedanPerson4,"₹1,182.72",2023-10-22 18:07:50.340411,19:39
+Kempegowda International Airport Bengaluru,Electronic City,UberGoPerson4,"₹1,044.96",2023-10-22 18:08:09.478100,19:51
+Kempegowda International Airport Bengaluru,Electronic City,PremierPerson4,"₹1,157.04",2023-10-22 18:08:09.479047,19:50
+Kempegowda International Airport Bengaluru,Electronic City,UberXLPerson6,"₹2,338.24",2023-10-22 18:08:09.479047,19:53
+Kempegowda International Airport Bengaluru,Electronic City,Go SedanPerson4,"₹1,102.44",2023-10-22 18:08:09.480084,19:50
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberGoPerson4,₹823.83,2023-10-22 18:08:28.428088,19:11
+Kempegowda International Airport Bengaluru,Nagarabhavi,PremierPerson4,₹909.21,2023-10-22 18:08:28.429089,19:09
+Kempegowda International Airport Bengaluru,Nagarabhavi,UberXLPerson6,"₹1,809.04",2023-10-22 18:08:28.429089,19:14
+Kempegowda International Airport Bengaluru,Nagarabhavi,Go SedanPerson4,₹867.62,2023-10-22 18:08:28.429089,19:09
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberGoPerson4,₹768.90,2023-10-22 18:08:47.485960,18:57
+Kempegowda International Airport Bengaluru,Kalyan Nagar,PremierPerson4,₹845.00,2023-10-22 18:08:47.486961,18:55
+Kempegowda International Airport Bengaluru,Kalyan Nagar,UberXLPerson6,"₹1,647.11",2023-10-22 18:08:47.486961,18:59
+Kempegowda International Airport Bengaluru,Kalyan Nagar,Go SedanPerson4,₹807.94,2023-10-22 18:08:47.487928,18:55
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Uber GoPerson4,₹915.56,2023-10-22 18:09:13.243444,19:10
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,108.61",2023-10-22 18:09:13.243959,19:11
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,935.81",2023-10-22 18:09:13.243959,19:14
+"Marathahalli, Bengaluru, Karnataka",Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹979.91,2023-10-22 18:09:13.245005,19:10
+Koramangala,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹859.36,2023-10-22 18:09:35.058163,19:17
+Koramangala,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,038.59",2023-10-22 18:09:35.059195,19:17
+Koramangala,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,813.29",2023-10-22 18:09:35.059195,19:19
+Koramangala,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹919.09,2023-10-22 18:09:35.060200,19:17
+Indiranagar,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹848.93,2023-10-22 18:09:56.869102,19:06
+Indiranagar,Kempegowda International Airport Bengaluru,PremierPerson4,"₹1,025.60",2023-10-22 18:09:56.870136,19:06
+Indiranagar,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,789.56",2023-10-22 18:09:56.870136,19:14
+Indiranagar,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹907.84,2023-10-22 18:09:56.871144,19:06
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹702.36,2023-10-22 18:10:18.914960,18:47
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,PremierPerson4,₹842.98,2023-10-22 18:10:18.914960,18:48
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,467.85",2023-10-22 18:10:18.915960,18:50
+Yeshwantpur Bus Stand,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹749.24,2023-10-22 18:10:18.915960,18:47
+Yelahanka,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹432.30,2023-10-22 18:10:40.682596,18:30
+Yelahanka,Kempegowda International Airport Bengaluru,PremierPerson4,₹506.50,2023-10-22 18:10:40.683579,18:30
+Yelahanka,Kempegowda International Airport Bengaluru,UberXLPerson6,₹874.62,2023-10-22 18:10:40.683579,18:35
+Yelahanka,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹457.02,2023-10-22 18:10:40.684580,18:30
+Whitefield,Kempegowda International Airport Bengaluru,Uber GoPerson4,₹681.19,2023-10-22 18:11:02.674804,19:23
+Whitefield,Kempegowda International Airport Bengaluru,PremierPerson4,₹845.00,2023-10-22 18:11:02.675772,19:23
+Whitefield,Kempegowda International Airport Bengaluru,UberXLPerson6,"₹1,559.40",2023-10-22 18:11:02.675772,19:28
+Whitefield,Kempegowda International Airport Bengaluru,Go Sedan 2Person4,₹735.79,2023-10-22 18:11:02.675772,19:23
